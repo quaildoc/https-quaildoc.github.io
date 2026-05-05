@@ -1,1 +1,41 @@
-# https-quaildoc.github.io
+---
+title: "Dr Matthew J Grainger"
+image: images/ProfilePic.png
+about:
+  template: trestles
+  links:
+    - text: Google Scholar
+      href: "https://scholar.google.com/citations?user=aZ4E5I4AAAAJ&hl=en&authuser=1"
+    - text: Bluesky
+      href: "https://bsky.app/profile/drmattg.bsky.social"
+    - text: GitHub
+      href: "https://github.com/DrMattG/"
+    - text: ResearchGate
+      href: "https://www.researchgate.net/profile/Matthew-Grainger"
+    - text: Email
+      href: "mailto:matthew.grainger@nina.no"
+---
+
+## Biography
+
+I am an "uncertain ecologist". My research focuses on uncertainty in conservation decision making and how best to make use of it in statistical models and in communication with stakeholders. I have a footing in evidence synthesis and a strong sideline in pheasants.
+
+![Edwards's pheasant](images/FAOxrOFE_400x400-01.jpg){fig-align="center"}
+
+I am currently employed as a [Researcher](https://www.nina.no/english/About-NINA/Contact/employees/employee-info.aspx?AnsattID=16028) at the [Norwegian Institute for Nature Research](https://www.nina.no/english/Home), based in the head office in [Trondheim](https://goo.gl/maps/gXCdBATvv9LcuVZu5). A list of my publications can be found [here](Publications).
+
+## Interests
+
+-   Evidence synthesis
+
+-   Conservation decision making
+
+-   Biodiversity conservation
+
+-   Bayesian networks
+
+-   Open and Reproducible Science in Ecology
+
+## Education
+
+PhD Zoology, 2012, University of Pretoria# https-quaildoc.github.io
