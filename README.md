@@ -1,19 +1,15 @@
 ---
-title: "Dr Matthew J Grainger"
+title: "Dr James A. Martin"
 image: images/ProfilePic.png
 about:
   template: trestles
   links:
     - text: Google Scholar
       href: "https://scholar.google.com/citations?user=aZ4E5I4AAAAJ&hl=en&authuser=1"
-    - text: Bluesky
-      href: "https://bsky.app/profile/drmattg.bsky.social"
     - text: GitHub
-      href: "https://github.com/DrMattG/"
-    - text: ResearchGate
-      href: "https://www.researchgate.net/profile/Matthew-Grainger"
+      href: "https://github.com/quaildoc/"
     - text: Email
-      href: "mailto:matthew.grainger@nina.no"
+      href: "mailto:jmart22@uga.edu"
 ---
 
 ## Biography
